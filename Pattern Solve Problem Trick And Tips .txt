@@ -1,0 +1,14 @@
+Understand the pattern: Before you start coding, make sure you understand the pattern you're trying to create. 
+It can be helpful to draw it out on paper or visualize it in your head.
+
+Choose the right type of loop: Depending on the pattern, you may need to use a for loop, while loop, or
+do-while loop for the outer and/or inner loop. Consider the number of times you want the loop to run and whether you need to run the loop at least once.
+
+Initialize loop control variables: Make sure you initialize the loop control variables for both the outer an
+d inner loops. This includes setting the starting value and the condition for when the loop should stop running.
+
+Use nested loops: To create a pattern, you'll typically need to use nested loops. The outer loop will run for ea
+ch row of the pattern, while the inner loop will run for each element in the row.
+
+Use the loop control variables in the print statement: In the print statement inside the inner lo
+op, use the loop control variables to determine what should be printed. For example, you might use the outer loop variable to determine the row number and the inner loop variable to determine the column number.
