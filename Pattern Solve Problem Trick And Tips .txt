@@ -4,3 +4,6 @@ Pattern  Tricks
 2) For the Inner Loop,focus on the Columns and coonect Somehow With The Rows 
 3) Print then "*" in middle for Inner loop 
 4) observe symmmetry ( optional)
+
+Solve All Print Problem Given By Striver 
+
