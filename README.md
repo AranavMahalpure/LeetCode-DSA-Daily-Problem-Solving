@@ -1,3 +1,23 @@
+# LeetCode Solutions
+
+Welcome to my LeetCode solutions repository! This repository contains my solutions to various problems on [LeetCode](https://leetcode.com/) using the [LeetHub](https://github.com/QasimWani/LeetHub) extension.
+
+## My LeetCode Profile
+
+You can check out my LeetCode profile [here](https://leetcode.com/AranavMahalpure/).
+
+## Solved Statistics
+
+- **Total Problems Solved**: 120 
+- **Easy Problems Solved**: 50 
+- **Medium Problems Solved**: 50
+- **Hard Problems Solved**: 20
+
+## Repository Structure
+
+This repository is organized by problem categories and difficulty levels:
+
+
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
