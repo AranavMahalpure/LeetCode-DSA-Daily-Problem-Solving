@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -69,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
