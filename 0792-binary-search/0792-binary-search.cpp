@@ -10,7 +10,7 @@ public:
         else if(nums[mid]>target){
             j=mid-1;
         }
-        else if(nums[mid]<target){
+        else {
             i =mid+1;
         }
         }
