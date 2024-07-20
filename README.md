@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0792-binary-search) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0792-binary-search) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Two Pointers
