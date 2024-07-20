@@ -2,7 +2,8 @@ class Solution {
 public:
     void rotate(vector<int>& nums, int k) {
         int n = nums.size();
-        k = k % n; // Ensure k is within the range [0, n)
+        if(n==0) return ;
+        k = k % n; // Ensure k is within the range [0, n]
 
         // Reverse the entire array
         reverse(nums.begin(), nums.end());
