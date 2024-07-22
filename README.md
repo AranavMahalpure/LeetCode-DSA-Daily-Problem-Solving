@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0409-longest-palindrome) |
 ## Math
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Divide and Conquer
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0812-rotate-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
