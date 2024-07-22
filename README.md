@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0409-longest-palindrome) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1205-defanging-an-ip-address) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
