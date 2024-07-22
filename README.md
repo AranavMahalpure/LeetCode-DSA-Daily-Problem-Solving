@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1013-fibonacci-number) |
+| [2032-largest-odd-number-in-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2032-largest-odd-number-in-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1205-defanging-an-ip-address) |
+| [2032-largest-odd-number-in-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## String Matching
 |  |
 | ------- |
