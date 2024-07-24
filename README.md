@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Hash Table
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0283-move-zeroes) |
+| [1019-squares-of-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2887-sort-vowels-in-a-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
 ## Divide and Conquer
