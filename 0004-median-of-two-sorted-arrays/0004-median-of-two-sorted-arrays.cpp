@@ -27,5 +27,7 @@ public:
         } else {
             double ans = static_cast<double>(m1) + static_cast<double>(m2);
             return ans / 2.0;
-        }}
+        
+        }
+    }
 };
