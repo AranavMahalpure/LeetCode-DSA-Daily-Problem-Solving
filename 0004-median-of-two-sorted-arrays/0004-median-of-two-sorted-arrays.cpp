@@ -1,49 +1,31 @@
 class Solution {
 public:
-    double findMedianSortedArrays(vector<int>& A, vector<int>& B) {
-        int na = int(A.size()), nb = int(B.size());
-        int n = na + nb;
-        if (n % 2) {
-            return solve(A, B, n / 2, 0, na - 1, 0, nb - 1);
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        int n = nums1.size();
+        int m = nums2.size();
+        int i = 0, j = 0, m1 = 0, m2 = 0;
+
+        // Find median.
+        for (int count = 0; count <= (n + m) / 2; count++) {
+            m2 = m1;
+            if (i != n && j != m) {
+                if (nums1[i] > nums2[j]) {
+                    m1 = nums2[j++];
+                } else {
+                    m1 = nums1[i++];
+                }
+            } else if (i < n) {
+                m1 = nums1[i++];
+            } else {
+                m1 = nums2[j++];
+            }
+        }
+
+        // Check if the sum of n and m is odd.
+        if ((n + m) % 2 == 1) {
+            return static_cast<double>(m1);
         } else {
-            return 1.0 *
-                   (solve(A, B, n / 2 - 1, 0, na - 1, 0, nb - 1) +
-                    solve(A, B, n / 2, 0, na - 1, 0, nb - 1)) /
-                   2;
-        }
-    }
-    int solve(vector<int>& A, vector<int>& B, int k, int aStart, int aEnd,
-              int bStart, int bEnd) {
-        // If the segment of on array is empty, it means we have passed all
-        // its element, just return the corresponding element in the other
-        // array.
-        if (aEnd < aStart) {
-            return B[k - aStart];
-        }
-        if (bEnd < bStart) {
-            return A[k - bStart];
-        }
-
-        // Get the middle indexes and middle values of A and B.
-        int aIndex = (aStart + aEnd) / 2, bIndex = (bStart + bEnd) / 2;
-        int aValue = A[aIndex], bValue = B[bIndex];
-
-        // If k is in the right half of A + B, remove the smaller left half.
-        if (aIndex + bIndex < k) {
-            if (aValue > bValue) {
-                return solve(A, B, k, aStart, aEnd, bIndex + 1, bEnd);
-            } else {
-                return solve(A, B, k, aIndex + 1, aEnd, bStart, bEnd);
-            }
-        }
-        // Otherwise, remove the larger right half.
-        else {
-            if (aValue > bValue) {
-                return solve(A, B, k, aStart, aIndex - 1, bStart, bEnd);
-            } else {
-                return solve(A, B, k, aStart, aEnd, bStart, bIndex - 1);
-            }
-        }
-        return -1;
-    }
+            double ans = static_cast<double>(m1) + static_cast<double>(m2);
+            return ans / 2.0;
+        }}
 };
