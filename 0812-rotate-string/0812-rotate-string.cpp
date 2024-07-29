@@ -19,7 +19,7 @@ public:
         string clockwise,anticlockwise;
         int j=0;
         clockwise=str1;
-        while(1 && j<str1.size()){
+        while(j<str1.size()){
         clockwise=rotateclockwise(clockwise);
         if(clockwise==str2){
             return 1;
