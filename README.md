@@ -9,9 +9,9 @@ You can check out my LeetCode profile [here](https://leetcode.com/AranavMahalpur
 ## Solved Statistics
 
 - **Total Problems Solved**: 120 
-- **Easy Problems Solved**: 50 
-- **Medium Problems Solved**: 50
-- **Hard Problems Solved**: 20
+- **Easy Problems Solved**: 83
+- **Medium Problems Solved**: 59
+- **Hard Problems Solved**: 11
 
 ## Repository Structure
 
