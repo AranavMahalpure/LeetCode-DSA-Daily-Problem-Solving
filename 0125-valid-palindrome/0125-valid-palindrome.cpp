@@ -10,13 +10,15 @@ public:
 }
     bool isPalindrome(string s) {
         vector<char>a;
-        
         for(auto c:s)
         {
             if(isalnum(c))
             {
                 a.push_back(tolower(c));
             }
+        }
+        for(auto it:a){
+            cout<<it;
         }
         int n=a.size();
         return func(0,a,n);
