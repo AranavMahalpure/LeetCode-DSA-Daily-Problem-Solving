@@ -9,7 +9,6 @@ public:
         int cnt = 1;
         int max_length = 1;
         int n = nums.size();
-
         for (int i = 1; i < n; i++) {
             if (nums[i] == nums[i-1] + 1) {
                 cnt++;
@@ -18,7 +17,6 @@ public:
             }
             max_length = max(max_length, cnt);
         }
-
         return max_length;
     }
 };
