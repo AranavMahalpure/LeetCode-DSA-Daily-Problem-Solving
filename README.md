@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0415-add-strings) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Number Theory
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1168-duplicate-zeros) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
