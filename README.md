@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0066-plus-one) |
 | [0090-subsets-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0205-isomorphic-strings) |
@@ -300,4 +302,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0090-subsets-ii) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
