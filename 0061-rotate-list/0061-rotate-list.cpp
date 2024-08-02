@@ -11,43 +11,37 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if(head==NULL)
-        {
-            return head;
-        }
-        
-        int n=1;
-        ListNode *temp=head;
-        while(temp->next!=NULL)
-        {
-            n++;
-            temp=temp->next;
-        }
-      
-        
-        k=k%n;
-        if(k==0)
-        {
-            return head;
-        }
-        int last=n-k;
-         ListNode *temp1=head;
-        for(int i=1;i<last;i++)
-        {
-            temp1=temp1->next;
-        }
-        if(temp1->next!=nullptr){
-             ListNode *temp2=temp1->next;
-            temp->next=head;
-            temp1->next=NULL;
-            head=temp2;
-        }
-        else{
-            temp->next=head;
-            head = temp;
+        if (!head || !head->next || k == 0) {
+        return head; // If the list is empty, has only one node, or no rotation needed
+    }
 
-        }
-        return head;
+    // Step 1: Find the length of the list and make it circular
+    int n = 1; // Start with 1 because we're already at head
+    ListNode* temp = head;
+    while (temp->next) {
+        n++;
+        temp = temp->next;
+    }
+    temp->next = head; // Make the list circular
+
+    // Step 2: Calculate the effective rotations needed
+    k = k % n;
+    if (k == 0) {
+        temp->next = nullptr; // Break the circle
+        return head; // No rotation needed
+    }
+
+    // Step 3: Find the new head and tail after rotation
+    int stepsToNewHead = n - k;
+    ListNode* newTail = head;
+    for (int i = 1; i < stepsToNewHead; i++) {
+        newTail = newTail->next;
+    }
+
+    ListNode* newHead = newTail->next; // The new head after rotation
+    newTail->next = nullptr; // Break the circle
+
+    return newHead;
     }
 
 };
