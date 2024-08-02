@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0136-single-number) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0137-single-number-ii) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0090-subsets-ii) |
 ## Union Find
 |  |
