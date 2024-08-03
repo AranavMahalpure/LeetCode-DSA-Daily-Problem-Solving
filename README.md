@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0066-plus-one) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
