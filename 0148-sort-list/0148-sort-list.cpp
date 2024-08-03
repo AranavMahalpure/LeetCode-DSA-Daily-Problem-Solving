@@ -12,7 +12,6 @@ class Solution {
 public:
     ListNode* sortList(ListNode* head) {
         vector<int> sortable;
-
         ListNode *temp = head;
         while (temp != nullptr) {
             sortable.push_back(temp -> val);
