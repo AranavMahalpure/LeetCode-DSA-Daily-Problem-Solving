@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2502-sort-the-people](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2502-sort-the-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2502-sort-the-people](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2502-sort-the-people) |
 ## Math
 |  |
 | ------- |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2502-sort-the-people](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
 ## Divide and Conquer
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1205-defanging-an-ip-address](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2032-largest-odd-number-in-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
+| [2502-sort-the-people](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2502-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2887-sort-vowels-in-a-string) |
 ## String Matching
 |  |
