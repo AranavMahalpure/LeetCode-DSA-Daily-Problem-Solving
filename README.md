@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0409-longest-palindrome) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2032-largest-odd-number-in-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Sliding Window
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0812-rotate-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0503-next-greater-element-ii) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 ## Trie
 |  |
