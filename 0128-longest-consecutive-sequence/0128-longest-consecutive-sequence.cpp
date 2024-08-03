@@ -12,10 +12,11 @@ public:
         for (int i = 1; i < n; i++) {
             if (nums[i] == nums[i-1] + 1) {
                 cnt++;
+                max_length = max(max_length, cnt);
             } else if (nums[i] != nums[i-1]) {
                 cnt = 1; // Reset count if the numbers are not consecutive
             }
-            max_length = max(max_length, cnt);
+            
         }
         return max_length;
     }
