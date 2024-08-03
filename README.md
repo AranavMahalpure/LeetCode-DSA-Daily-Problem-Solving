@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0415-add-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
