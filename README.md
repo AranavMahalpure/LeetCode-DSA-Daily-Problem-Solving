@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0066-plus-one) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0216-combination-sum-iii) |
