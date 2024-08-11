@@ -5,31 +5,24 @@
 
 using namespace std;
 
-void findCombinations(int index, int n, int target, vector<int>& current, vector<int>& candidates, vector<vector<int>>& result) {
-    if (target == 0) {
-        result.push_back(current);
+void fuct(int ind, int n, int t, vector<vector<int>>& ans, vector<int>& current, vector<int>& v) {
+    if (t == 0) {
+        ans.push_back(current);
         return;
     }
-
-    for (int i = index; i < n; i++) {
-        // Skip duplicates
-        if (i > index && candidates[i] == candidates[i - 1])
-            continue;
-        
-        // If the current number is greater than the remaining target, break the loop
-        if (candidates[i] > target)
-            break;
-        
-        current.push_back(candidates[i]);
-        findCombinations(i + 1, n, target - candidates[i], current, candidates, result);
+    for (int i = ind; i < n; i++) {
+        if (i > ind && v[i] == v[i - 1]) continue; // Skip duplicates
+        if (v[i] > t) break; // No need to proceed if the number is greater than the remaining target
+        current.push_back(v[i]);
+        fuct(i + 1, n, t - v[i], ans, current, v);
         current.pop_back();
     }
 }
 
 vector<vector<int>> combinationSum2(vector<int>& candidates, int target) {
-    vector<vector<int>> result;
+    vector<vector<int>> ans;
     vector<int> current;
-    sort(candidates.begin(), candidates.end()); // Sort the candidates to handle duplicates
-    findCombinations(0, candidates.size(), target, current, candidates, result);
-    return result;
+    sort(candidates.begin(), candidates.end()); // Sort to handle duplicates
+    fuct(0, candidates.size(), target, ans, current, candidates);
+    return ans;
 }
