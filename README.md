@@ -2,16 +2,16 @@
 
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various problems on [LeetCode](https://leetcode.com/) using the [LeetHub](https://github.com/QasimWani/LeetHub) extension.
 
-## My LeetCode Profile
+///## My LeetCode Profile
 
-You can check out my LeetCode profile [here](https://leetcode.com/AranavMahalpure/).
+/////You can check out my LeetCode profile [here](https://leetcode.com/AranavMahalpure/).
 
 ## Solved Statistics
 
-- **Total Problems Solved**: 120 
-- **Easy Problems Solved**: 83
-- **Medium Problems Solved**: 59
-- **Hard Problems Solved**: 11
+- **Total Problems Solved**: 201 
+- **Easy Problems Solved**: 103
+- **Medium Problems Solved**: 84
+- **Hard Problems Solved**: 14
 
 ## Repository Structure
 
