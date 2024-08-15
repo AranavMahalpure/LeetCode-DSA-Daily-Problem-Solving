@@ -7,12 +7,9 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 /////You can check out my LeetCode profile [here](https://leetcode.com/AranavMahalpure/).
 
 ## Solved Statistics
-
-- **Total Problems Solved**: 201 
-- **Easy Problems Solved**: 103
-- **Medium Problems Solved**: 84
-- **Hard Problems Solved**: 14
-
+  ### 📊 Leetcode Stats:
+  
+[![Aranav Mahalpure's LeetCode Stats](https://leetcode.card.workers.dev/AranavMahalpure?theme=dark&font=&extension=activity)](https://leetcode.com/AranavMahalpure/)
 ## Repository Structure
 
 This repository is organized by problem categories and difficulty levels:
