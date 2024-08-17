@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0978-valid-mountain-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0978-valid-mountain-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1127-last-stone-weight](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1168-duplicate-zeros) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1013-fibonacci-number) |
+| [1014-k-closest-points-to-origin](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [2032-largest-odd-number-in-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0455-assign-cookies) |
+| [1014-k-closest-points-to-origin](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -369,11 +373,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [1014-k-closest-points-to-origin](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 ## Design
 |  |
 | ------- |
@@ -464,4 +470,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
