@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0890-lemonade-change) |
 | [0978-valid-mountain-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0978-valid-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
+| [1127-last-stone-weight](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1127-last-stone-weight) |
 | [1168-duplicate-zeros](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1168-duplicate-zeros) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
+| [1127-last-stone-weight](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1127-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
