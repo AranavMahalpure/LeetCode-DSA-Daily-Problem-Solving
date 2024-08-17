@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0817-design-hashmap](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0817-design-hashmap) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2502-sort-the-people](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2502-sort-the-people) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1205-defanging-an-ip-address](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1205-defanging-an-ip-address) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1960-check-if-the-sentence-is-pangram) |
