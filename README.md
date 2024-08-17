@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0455-assign-cookies) |
 | [1014-k-closest-points-to-origin](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [1014-k-closest-points-to-origin](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1127-last-stone-weight) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0817-design-hashmap](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
@@ -474,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
