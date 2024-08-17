@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0216-combination-sum-iii) |
 | [0219-contains-duplicate-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 ## Merge Sort
 |  |
 | ------- |
@@ -490,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
