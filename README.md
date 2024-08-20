@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0739-daily-temperatures) |
 | [0747-min-cost-climbing-stairs](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0747-min-cost-climbing-stairs) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0817-design-hashmap) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0455-assign-cookies) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [1014-k-closest-points-to-origin](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
