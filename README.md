@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0264-ugly-number-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0264-ugly-number-ii) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0067-add-binary) |
+| [0091-decode-ways](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0205-isomorphic-strings) |
