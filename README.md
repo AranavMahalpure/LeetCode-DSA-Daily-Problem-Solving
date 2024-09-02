@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0503-next-greater-element-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0424-longest-repeating-character-replacement) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0908-middle-of-the-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1019-squares-of-a-sorted-array) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0455-assign-cookies) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0748-largest-number-at-least-twice-of-others) |
