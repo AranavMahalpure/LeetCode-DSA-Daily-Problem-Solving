@@ -1,12 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        if(nums.size()==0){
-            return 0;
+        int sum =0;
+        for(int i=0;i<nums.size();i++){
+            sum=sum^nums[i];
         }
-         int Xo=0;
-	   for(auto x: nums)
-		     Xo=Xo^x;
-	   return Xo;
+        return sum;
     }
 };
