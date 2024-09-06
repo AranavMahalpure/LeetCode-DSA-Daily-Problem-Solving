@@ -15,6 +15,7 @@
 
 using namespace std;
 
+// sliding window for Longest Subarray having K distinct Integer 
 int longestSubarrayWithKDistinctIntegers(const vector<int>& nums, int k) {
     unordered_map<int, int> numCount; // Map to count occurrences of each number
     int left = 0, right = 0, maxLength = 0;
@@ -40,6 +41,28 @@ int longestSubarrayWithKDistinctIntegers(const vector<int>& nums, int k) {
     return maxLength;
 }
 
+// longestsubarrayqithmaxofsizeK;
+int longsubarraywithmaxofsizek(int k, vector<int> v) {
+    int left = 0;
+    int max_len = INT_MIN; // Corrected the variable name
+    int sum = 0;
+    
+    for (int right = 0; right < v.size(); right++) {
+        sum += v[right];
+        
+        // Check if the current sum equals k
+        while (sum == k) {
+            max_len = max(max_len, right - left + 1);
+            
+            // Move the left pointer to try and find other possible subarrays
+            sum -= v[left];
+            left++;
+        }
+    }
+    
+    return max_len == INT_MIN ? 0 : max_len; // Handle the case when no valid subarray is found
+}
+
 int main() {
     vector<int> nums = {1, 2, 1, 2, 3};
     int k = 2;
@@ -55,7 +78,6 @@ int longestSubarrayWithSumAtMostKHelper(const vector<int>& nums, int k, int inde
     if (index == nums.size()) {
         return currentLength;
     }
-
     // Option 1: Not take the current element
     int notTake = longestSubarrayWithSumAtMostKHelper(nums, k, index + 1, currentSum, currentLength);
 
