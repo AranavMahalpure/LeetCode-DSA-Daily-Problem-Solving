@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isHappy(int n) {
-        unordered_set<int> seenNumbers;
+        set<int> seenNumbers;
 
         while (n != 1 && seenNumbers.find(n) == seenNumbers.end()) {
             seenNumbers.insert(n);
