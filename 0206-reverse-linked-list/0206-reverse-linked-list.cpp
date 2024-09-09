@@ -1,7 +1,7 @@
 /**
  * Definition for singly-linked list.
  * struct ListNode {
- *     int data;
+ *     int val;
  *     ListNode *next;
  *     ListNode() : val(0), next(nullptr) {}
  *     ListNode(int x) : val(x), next(nullptr) {}
@@ -11,11 +11,15 @@
 class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
-       if(head == NULL || head->next == NULL) return head;
-        ListNode* prev = NULL;
-        ListNode* h2 = reverseList(head->next);
-        head->next->next = head;
-        head->next=prev;
-        return h2;
+        struct ListNode* curr=head;
+        struct ListNode* prev=nullptr;
+        struct ListNode* temp=nullptr;
+        while(curr!=nullptr){
+             temp=curr->next;
+             curr->next = prev;
+             prev=curr;
+             curr=temp;
+        }
+        return prev;
     }
 };
