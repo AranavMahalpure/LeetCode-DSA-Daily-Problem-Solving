@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0268-missing-number) |
+| [0382-linked-list-random-node](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0382-linked-list-random-node) |
 | [0412-fizz-buzz](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1013-fibonacci-number) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0382-linked-list-random-node) |
 | [0817-design-hashmap](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -542,4 +544,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0239-sliding-window-maximum) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
