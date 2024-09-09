@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1013-fibonacci-number) |
+| [2573-remove-nodes-from-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -395,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1078-remove-outermost-parentheses) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [2573-remove-nodes-from-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2573-remove-nodes-from-linked-list) |
 ## Trie
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0382-linked-list-random-node](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0382-linked-list-random-node) |
 | [0817-design-hashmap](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0908-middle-of-the-linked-list) |
+| [2573-remove-nodes-from-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2573-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Heap (Priority Queue)
 |  |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/0739-daily-temperatures) |
+| [2573-remove-nodes-from-linked-list](https://github.com/AranavMahalpure/LeetCode-DSA-Daily-Problem-Solving/tree/master/2573-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
