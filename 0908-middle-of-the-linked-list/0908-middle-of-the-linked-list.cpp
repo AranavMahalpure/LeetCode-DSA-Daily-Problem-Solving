@@ -13,7 +13,7 @@ public:
     ListNode* middleNode(ListNode* head) {
          struct ListNode* slow= head;
          struct ListNode* fast= head;
-        while((fast!=nullptr) && (fast->next=nullptr)){
+        while((fast!=nullptr) && (fast->next!=nullptr)){
              slow= slow->next;
              fast=fast->next->next;
         }
