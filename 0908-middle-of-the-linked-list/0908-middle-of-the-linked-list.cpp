@@ -11,12 +11,12 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-    struct ListNode* tortoise = head;
-    struct ListNode* hare = head;
-    while (hare != nullptr && hare->next != nullptr) {
-        tortoise = tortoise->next;
-        hare = hare->next->next;
-    }
-    return tortoise; 
+         struct ListNode* slow= head;
+         struct ListNode* fast= head;
+        while((fast!=nullptr) && (fast->next=nullptr)){
+             slow= slow->next;
+             fast=fast->next->next;
+        }
+       return slow;
     }
 };
