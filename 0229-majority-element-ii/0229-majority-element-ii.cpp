@@ -1,17 +1,16 @@
 class Solution {
 public:
     vector<int> majorityElement(vector<int>& nums) {
-        unordered_map<int,int>hmap;
-        vector<int>ans;
-        int n=nums.size();
-        for(int i=0;i<nums.size();i++){
-            hmap[nums[i]]++;
+         int maxi= nums.size()/3;
+        unordered_map<int,int>mp;
+        set<int> ans;
+        for(auto num:nums){
+           mp[num]++;
+           if(mp[num]>maxi){
+            ans.insert(num);
+           }
         }
-        for(auto it:hmap){
-            if(it.second>n/3){
-                ans.push_back(it.first);
-            }
-        }
-     return ans;
+        vector<int>m(ans.begin(),ans.end());
+        return m;
     }
-};   
+};
