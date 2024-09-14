@@ -1,0 +1,35 @@
+***Stack-based Algorithm for Postfix to Infix:
+Steps:
+1 Scan the postfix expression from left to right.
+2 If an operand is encountered: Push it onto the stack.
+3 If an operator is encountered:
+4 Pop the top two operands from the stack.
+5 Form a string by combining them in the form: (operand1 operator operand2).
+6 Push the resulting string back onto the stack.
+7 At the end of the expression, the stack will contain the final infix expression.
+
+
+bool isOperator(char c) {
+    return (c == '+' || c == '-' || c == '*' || c == '/');
+}
+
+string postfixToInfix(string postfix) {
+    stack<string> s;
+    for (char ch : postfix) {
+        if (isalnum(ch)) {  // Operand
+            s.push(string(1, ch));
+        } else if (isOperator(ch)) {  // Operator
+            string operand2 = s.top(); s.pop();
+            string operand1 = s.top(); s.pop();
+            string expression = "(" + operand1 + " " + ch + " " + operand2 + ")";
+            s.push(expression);
+        }
+    }
+    return s.top();  // The final infix expression
+}
+
+int main() {
+    string postfix = "ABC*+D-";
+    cout << "Infix: " << postfixToInfix(postfix) << endl;
+    return 0;
+}
