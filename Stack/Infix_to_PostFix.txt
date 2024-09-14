@@ -1,6 +1,16 @@
 
 //for the infix to postfix
 
+ pseudo Code 
+2. Conversion Rules:
+We use a stack to help with operator precedence and parentheses. Follow these steps:
+
+Operands: Output them immediately (they stay in the same order).
+Left Parenthesis (: Push it onto the stack.
+Right Parenthesis ): Pop from the stack to the output until you find a left parenthesis (, which is discarded.
+Operators (+, -, *, /, ^):
+Pop from the stack to the output if the precedence of the operator on top of the stack is greater than or equal to the current operator.
+Push the current operator onto the stack.
 int precedence(char op) {
     if (op == '+' || op == '-') return 1;
     if (op == '*' || op == '/') return 2;
